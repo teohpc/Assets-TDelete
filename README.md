@@ -13,7 +13,7 @@ If triggered from assetContextMenu, the plugins uses **move** API call to move a
 * Title
     * *own preference*
 * URL
-    * https://integration.wwapac.com/Assets/TDelete/delete.html
+    * https://integration.wwapac.com/Assets/TDelete/dist/delete.html
 * User Interface
     * Dialog
 * Width
@@ -36,7 +36,7 @@ If triggered from assetContextMenu, the plugins uses **move** API call to move  
 * Title
     * *own preference*
 * URL
-    * https://integration.wwapac.com/Assets/TDelete/restore.html
+    * https://integration.wwapac.com/Assets/TDelete/dist/restore.html
 * User Interface
     * Dialog
 * Width
@@ -56,7 +56,7 @@ Empty everything in userzone/DELETE using **remove** API call
 * Title
     * *own preference*
 * URL
-    * https://integration.wwapac.com/Assets/TDelete/empty.html
+    * https://integration.wwapac.com/Assets/TDelete/dist/empty.html
 * User Interface
     * Dialog
 * Width
@@ -65,3 +65,11 @@ Empty everything in userzone/DELETE using **remove** API call
     * 100
 * Action Location
     * Toolbar
+
+
+
+
+### History
+* 20240517 - A demo on how to use javascript-obfuscator to obfuscate the code
+* 20240507 - Clean up old code
+* 20221108 - Initial Release

@@ -1,3 +1,4 @@
-dist
 helper
-pack.bash
+*_ori*
+.DS_Store
+Thumbs.db
